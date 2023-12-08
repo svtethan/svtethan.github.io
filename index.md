@@ -1,6 +1,7 @@
 # Ethan Tran's Portfolio
 
 Computer Science student at CSUF expected to graduate 2026'.
+[Here's my profile!](https://github.com/svtethan)
 
 ## Favorite CPSC 120L Labs
 * Lab 6, Part 2
