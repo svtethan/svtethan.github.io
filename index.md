@@ -1,17 +1,17 @@
 # Ethan Tran's Portfolio
 
-Computer Science student at CSUF expected to graduate 2026'.
+Computer Science student at CSUF expected to graduate 2027'.
 [Here's my profile!](https://github.com/svtethan)
 
 ## Favorite CPSC 120L Labs
-* Lab 8, Part 2
+* Lab 4, Part 2
   
-  Using nested loops to create a pattern was very cool. Even if it was in ASCII it was super cool to use for loops to translate patterns. It was super simple and short, but it really shows how simple it can be.
+  A very simple usage of if statements in conjunction with comparison operators was used to create a surprisingly entertaining High or Low game that can be played with two players! While it is basic in function and doesn't use a random number generator to create an answer key, it is as simple as you can get in terms of labs with a more fun usage behind them! 
 
-* Lab 10, Part 1
+* Lab 9, Part 1
 
-  It was interesting to use the different types of loops. But when you get down to the fundamental understanding it's just a bunch of pathways that give you an end product. In this case it was to end up with 2D vectors. Very cool!
-
+  This was the first challenging lab for me, consisting of many vectors of strings to store and read values of a given file with text, that was set to be our dictionary, and compare given files that were filled with popular literature, where some were mispelled. Using this we were able to check if there were any spelling errors, and print them out. While it was challenging to input at first, we were able to get a very useful dictionary check for these text files.
+  
 * Lab 12, Part 1
 
-  Using vector as well as Magicks in order to create a new image made of separate gifs was super interesting. I wasn't aware of the capabilities of C++ especially with respect to image and color processing. The formatting for vectors was confusing but made sense.
+  Using vector as well as Magicks in order to create a new image made of 3 separate gifs was super interesting. I wasn't aware of the capabilities of C++, especially with respect to image and color processing. We used vectors of doubles, Magick, and Graphics Magick to create tables, combine the three gifs, and store RGB values to combine them into one very cool-looking image later!
